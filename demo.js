@@ -1,3 +1,4 @@
 console.log('hello');
 console.log(hi);
-hnhnvb asdad
+const a=100;
+let a=12;

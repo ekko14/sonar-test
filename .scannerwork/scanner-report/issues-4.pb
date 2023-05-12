@@ -1,3 +1,4 @@
-d
+ƒ
 
-javascriptS905FExpected an assignment or function call and instead saw an expression. 2 
+javascriptS3500CCorrect this attempt to modify "a" or use "let" in its declaration. 2 :
+ Const declaration
